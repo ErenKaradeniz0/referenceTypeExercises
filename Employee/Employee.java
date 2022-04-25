@@ -1,5 +1,3 @@
-package SecondTermWeek3.Employee;
-
 public class Employee {
     int emp_no;
     String emp_name;
