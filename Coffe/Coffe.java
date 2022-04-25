@@ -1,5 +1,3 @@
-package SecondTermWeek3.Coffe;
-
 public class Coffe {
     double weight;
     double unit_price;
