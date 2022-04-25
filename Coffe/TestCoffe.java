@@ -1,5 +1,3 @@
-package SecondTermWeek3.Coffe;
-
 public class TestCoffe {
     public static void main(String[] args) {
 
